@@ -1,0 +1,11 @@
+if game.PlaceId == 155615604 then
+    loadstring(game:HttpGet(https://raw.githubusercontent.com/t7ogi/aa/main/Prison%20life%20silent%20aim'))()
+elseif game.PlaceId == 189707 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/2dgeneralspam1/scripts-and-stuff/master/scripts/LoadstringUjHI6RQpz2o8", true))()
+elseif game.PlaceId == 155615604 then
+    https://raw.githubusercontent.com/t7ogi/ab/main/Prison%20Life%20GUI'))()
+elseif game.PlaceId == 2753915549 then
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/slightten/ouwHub/main/blox%20fruits'))()
+elseif game.PlaceId == 6490016198 then
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/slightten/ouwHub/main/Slayer%20Tycoon'))()
+end
